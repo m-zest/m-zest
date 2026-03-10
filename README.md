@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I am an AI Researcher and Engineer with a focus on AI, Security, governance and technical safety.
 <!--
 **m-zest/m-zest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
